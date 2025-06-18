@@ -278,7 +278,7 @@ def read_create_plotly_plots(path_text_files: str, path_for_tables: str) -> go.F
 if __name__ == "__main__":
 
     print("IMPORTANT INFORMATION:")
-    print("Examples which needs to be supplies inside the functions: " + "\n")
+    print("Examples which needs to be supplied inside the functions: " + "\n")
     print(
         "path_text_files: E:\hard rock\Hard Rock Sample -20240612T171500Z-001\Hard Rock Sample\spectroscopy hard sample\sample 2"
     )
